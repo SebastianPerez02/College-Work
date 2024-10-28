@@ -1,10 +1,13 @@
-th, td {
+table, th, td {
   border: 1px solid black;
  }
+ 
 table {
 border-style: ridge;
-border-width: 30px;
+border-width: 10px;
 }
+
+
 th, td {
-  cellpadding: 15px;
+  padding: 10px;
 }
