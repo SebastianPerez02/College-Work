@@ -1,3 +1,4 @@
 table, th, td {
-  border: 1px solid;
+  border="10";
+  cellpadding="10";
 }
