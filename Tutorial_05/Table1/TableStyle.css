@@ -1,4 +1,5 @@
 table, th, td {
+  border-style: ridge;
   border: 10px solid black;
   padding: 15px;
 }
