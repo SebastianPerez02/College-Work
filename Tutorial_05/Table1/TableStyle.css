@@ -1,4 +1,4 @@
 table, th, td {
-  border: 10px;
-  cellpadding: 10px;
+  border: 10px solid black;
+  padding: 15px;
 }
