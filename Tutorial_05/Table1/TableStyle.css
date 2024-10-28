@@ -1,8 +1,10 @@
 th, td {
   border: 1px solid black;
-  cellpadding: 15px;
-}
+ }
 table {
 border-style: ridge;
 border-width: 30px;
+}
+th, td {
+  cellpadding: 15px;
 }
